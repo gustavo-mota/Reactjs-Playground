@@ -1,0 +1,17 @@
+.Tabela table {
+  width: 100%;
+}
+.Tabela thead {
+  background-color: rgb(124, 175, 172);
+}
+
+.Tabela th {
+}
+
+.Tabela .Par {
+  background-color: rgba(39, 24, 24, 0.513);
+}
+
+.Tabela .Impar {
+  background-color: "white";
+}
